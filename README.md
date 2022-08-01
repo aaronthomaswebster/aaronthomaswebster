@@ -2,7 +2,7 @@
 
 I am a proficient Salesfroce and  Full-Stack Developer
 
-- ![image](https://user-images.githubusercontent.com/11345149/182182848-abbd8dce-997e-4a43-8621-707630cf7378.png|height=25px) 6+ years
+- ![image](https://user-images.githubusercontent.com/11345149/182182848-abbd8dce-997e-4a43-8621-707630cf7378.png | height=25px) 6+ years
 - ![image](https://user-images.githubusercontent.com/11345149/182181858-521d3823-f40c-4fcf-ae80-073277cc6472.png =x25) 4+ years
 - ![image](https://user-images.githubusercontent.com/11345149/182183199-3380a625-58c0-43da-96c3-f92af377d2ee.png =x25) 4+ years
 - ![image](https://user-images.githubusercontent.com/11345149/182183038-1d940b10-ab4f-45a0-947b-d0edc7c84afb.png =x25) 2+ years
