@@ -10,11 +10,21 @@ I am a proficient Salesfroce and  Full-Stack Developer
 <img src="https://user-images.githubusercontent.com/11345149/182183404-93e10521-5898-4363-96c8-fffe2b3178f3.png" height="35px">
 
 ### 6+ Years
-Salesforce, HTML, JS, CSS
+- <b>Salesforce</b>
+  - Apex, Batch Classes, API, VisualForce Pages, Lightning Web Components
+- <b>Web Development</b>
+  - HTML, JS, CSS
 
 
 ### 4+ Years
-Vuejs, MSSQL, AWS Administration and serverless functions, Nodejs
+- <b>Web Development</b>
+  - Vuejs, Vuetify, Node js
+- <b>Databases</b>
+  - MSSQL, AWS Dynamo DB
+- <b>AWS</b>
+  - Lambda Function, CloudFront, Route53, LightSail, RDS, Amplify, EC2, secrets manager, Cognito User Pools
+- <b>Bitbucket</b>
+  - Build automation and pipeline development, repo administartion
 
 ### 2+ Years
 
