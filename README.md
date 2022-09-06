@@ -20,7 +20,7 @@ I am a proficient Salesforce and  Full-Stack Developer
 - <b>Web Development</b>
   - Vuejs, Vuetify, Node js
 - <b>Databases</b>
-  - MSSQL, AWS Dynamo DB
+  - MSSQL, AWS Dynamo DB, Metabase
 - <b>AWS</b>
   - Lambda Function, CloudFront, Route53, LightSail, RDS, Amplify, EC2, secrets manager, Cognito User Pools
 - <b>Bitbucket</b>
