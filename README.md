@@ -1,6 +1,6 @@
 ## Hi, I’m Aaron Webster
 
-I am a proficient Salesfroce and  Full-Stack Developer
+I am a proficient Salesforce and  Full-Stack Developer
 
 ### Experience with 
 
